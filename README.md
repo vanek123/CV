@@ -1,10 +1,8 @@
 # Mans CV
+
 Ivans Aļeškevičs
-
 Dzimšanas dati: 27.07.2004
-
 E-pasts: vanjaaleskevic@mail.ru
-
 Tālrunis: +37125101658
 
 ## Izglītība
@@ -25,4 +23,7 @@ Valodu zināšanas:
 
 *angļu valoda - pārvaldu brīvi*
 
+## Hobiji
+
+Mani interesē basketbols un futbols
 
