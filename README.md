@@ -1,12 +1,14 @@
+<p align=center> CV <p/>
+
 # Mans CV
 
-* Vārds, Uzvārds:Ivans Aļeškevičs
+* Vārds, Uzvārds: Ivans Aļeškevičs
 * Dzimšanas dati: 27.07.2004
 * E-pasts: vanjaaleskevic@mail.ru
 * Adrese: Vecā Biķernieku iela 33-11, Rīga, LV-1035
 * Tālrunis: +37125101658
 
-Bilde:![Es](https://sun9-64.userapi.com/impg/kO7alssWb5LukPV6BeAZtQvxyu4BdykXNc-vtA/NcvEHSOWaPU.jpg?size=842x1080&quality=96&proxy=1&sign=473cd9d0f29c8cfa66fc7b720feb8bf3&type=album)
+Bilde:![Es](https://psv4.userapi.com/c537232/u310698114/docs/d25/43f7b5beda1e/CV.png?extra=KToAylOIzSVHH9ijCsv60GiCpc-lCHrtIDv3eYhhVxD-38w8lbMQhwoGEr5pTWIvORF6T2lSA-0yw4vQCVL4NNY0qJnUdQ45mbH27gJiHUNG5JF7VZGY4BeFSS9rMC3jcbtm9CmnYae5Qp_wgH561XNz9bg)
 
 ## Izglītība
 *2010 - 2015 - Rīgas 89. vidusskola*
@@ -19,7 +21,7 @@ Bilde:![Es](https://sun9-64.userapi.com/impg/kO7alssWb5LukPV6BeAZtQvxyu4BdykXNc-
 
 ## Sasniegumi
 
-## Valodu zināšanas:
+## Valodu zināšanas
 
 |***Valoda***|***Līmenis*** |
 |------------|--------------|
@@ -32,6 +34,7 @@ Bilde:![Es](https://sun9-64.userapi.com/impg/kO7alssWb5LukPV6BeAZtQvxyu4BdykXNc-
 * Basketbols
 * Futbols
 * Mūzikas producēšana, izmantojot FL Studio 12
+* Trenažieru zāle
 
 ## Pieredze programmēšanā
 
