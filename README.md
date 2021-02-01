@@ -8,7 +8,7 @@
 * Adrese: Vecā Biķernieku iela 33-11, Rīga, LV-1035
 * Tālrunis: +37125101658
 
-Bilde:![Es](https://psv4.userapi.com/c537232/u310698114/docs/d25/43f7b5beda1e/CV.png?extra=KToAylOIzSVHH9ijCsv60GiCpc-lCHrtIDv3eYhhVxD-38w8lbMQhwoGEr5pTWIvORF6T2lSA-0yw4vQCVL4NNY0qJnUdQ45mbH27gJiHUNG5JF7VZGY4BeFSS9rMC3jcbtm9CmnYae5Qp_wgH561XNz9bg)
+Bilde: ![Es](https://psv4.userapi.com/c537232/u310698114/docs/d25/43f7b5beda1e/CV.png?extra=KToAylOIzSVHH9ijCsv60GiCpc-lCHrtIDv3eYhhVxD-38w8lbMQhwoGEr5pTWIvORF6T2lSA-0yw4vQCVL4NNY0qJnUdQ45mbH27gJiHUNG5JF7VZGY4BeFSS9rMC3jcbtm9CmnYae5Qp_wgH561XNz9bg)
 
 ## Izglītība
 *2010 - 2015 - Rīgas 89. vidusskola*
@@ -20,6 +20,8 @@ Bilde:![Es](https://psv4.userapi.com/c537232/u310698114/docs/d25/43f7b5beda1e/CV
 *2020 - pašlaik - Rīgas Valsts Tehnikums - vispārējā vidējā izglītība un profesija (Programmēšanas tehniķis)*
 
 ## Sasniegumi
+
+Piedalījos basketbola sacensībās starp citām skolām un mūsu komanda aizņēma 1 vietu.
 
 ## Valodu zināšanas
 
